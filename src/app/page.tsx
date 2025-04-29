@@ -1,4 +1,4 @@
-import OnboardingContainer from '@/components/onboarding/onboardingcontainer'
+import OnboardingContainer from '@/components/onboarding/OnboardingContainer'
 
 export default function Home() {
   return (
