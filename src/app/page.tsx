@@ -1,4 +1,4 @@
-import OnboardingContainer from '@/components/onboarding/onboarding-container.tsx'
+import OnboardingContainer from '@/components/onboarding/onboarding-container'
 
 export default function Home() {
   return (
